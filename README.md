@@ -32,3 +32,29 @@ ou
 Lsita de tarefas:
 - [ ] Tarefa 1
 - [x] Tarefa 2
+
+Tebela:
+
+Número|Nome|Nota
+---|---|---|
+1|Fernando|10
+
+Fazendo um comando:
+Não entendo direito para que serve o comando 'document.getElementById()' da linguagem JavaScript
+
+Trechos de programa:
+Olha só meu programa em Phyton!
+
+'''
+num = int(input('Digite um valor: ')
+if num %2==0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+'''
+
+Emojis:
+
+🚭
+😄
+: mais o nome do emoji junto
