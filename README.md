@@ -1,7 +1,7 @@
 # Curso-GitHub
  Primeiro repositório versionado do curso de Git e Github.
 
-## Comandos para Git e Github
+## Comandos Markdown para Git e Github
 ***
 ou
 ___
